@@ -17,9 +17,10 @@ namespace ProyectoImprimir
             InitializeComponent();
         }
 
+
         private void buttonImprimir_Click(object sender, EventArgs e)
         {
-            textBoxNombre.Text =("Juan Alberto Padilla");
+            textBoxNombre.Text =("Juan Alberto Padilla Balbi");
         }
 
         private void buttonVer_Click(object sender, EventArgs e)
